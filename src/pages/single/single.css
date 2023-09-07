@@ -1,0 +1,8 @@
+.single{
+    display: flex;
+    
+}
+.padding-around {
+    margin-left: 80px; /* Adjust this value to create the desired space */
+    margin-right: 80px;
+}
