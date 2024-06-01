@@ -4,15 +4,17 @@ Welcome to the frontend repository for our blog website! This repository contain
 
 ## Technologies Used
 
-React.js, HTML, CSS, JavaScript
+- React.js
+- HTML
+- CSS
+- JavaScript
 
 ## Getting Started
 
 Follow these steps to get started with the frontend:
 
-
+```bash
 # Clone the repository
-git clone https://github.com/yourusername/blog-frontend.git
 
 # Navigate to the project directory
 cd blog-frontend
@@ -22,6 +24,7 @@ npm install
 
 # Run the development server
 npm start
+
 Features
 View list of blog posts.
 Read individual blog posts.
@@ -30,6 +33,7 @@ User authentication (login, register).
 Responsive design for mobile and desktop.
 Folder Structure
 The project structure is organized as follows:
+
 blog-frontend/
 ├── public/
 └── src/
@@ -37,7 +41,8 @@ blog-frontend/
     ├── components/
     ├── pages/
     └── App.js
-Contributing
+```
+## Contributing
 Contributions are welcome! Follow these steps to contribute:
 
 Fork the repository.
